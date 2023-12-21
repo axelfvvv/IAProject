@@ -1,4 +1,4 @@
-# AI Detector README
+# AI DETECTOR README
 
 ## Getting Started
 
