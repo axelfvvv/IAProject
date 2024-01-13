@@ -1,8 +1,7 @@
-# Projet d'intelligence artificielle
+# Projet d'intelligence artificielle "AI SPOTTER"
 
 > Lorenzo BARBEY
->  Axel	  FEVEZ
+> Axel	  FEVEZ
 
 ## Liens utiles / Bibliographie
 https://docs.google.com/document/d/1e_dAagBMYErsnTKsGhnmyM7cpmYEhlIBL1a64Yd974A
-   
